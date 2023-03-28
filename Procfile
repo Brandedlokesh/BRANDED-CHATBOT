@@ -1,1 +1,1 @@
-Candy: python3 main.py
+lokeshkhushi: python3 main.py
