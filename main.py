@@ -391,7 +391,7 @@ async def cb_handler(Client, query: CallbackQuery):
                 await query.edit_message_text(f"**ᴄʜᴀᴛ-ʙᴏᴛ ᴀʟʀᴇᴀᴅʏ ᴇɴᴀʙʟᴇᴅ.**")
            if lokeshkhushi:
                lokeshkhushi.delete_one({"chat_id": query.message.chat.id})
-                await query.edit_message_text(f"**ᴄʜᴀᴛ-ʙᴏᴛ ᴇɴᴀʙʟᴇᴅ ʙʏ** {query.from_user.mention}.")
+               await query.edit_message_text(f"**ᴄʜᴀᴛ-ʙᴏᴛ ᴇɴᴀʙʟᴇᴅ ʙʏ** {query.from_user.mention}.")
     elif query.data == "rmchat":
         if query.from_user.id not in (await is_admins(query.message.chat.id)):
             return query.answer(
