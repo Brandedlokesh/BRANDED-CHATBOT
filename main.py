@@ -386,7 +386,7 @@ async def cb_handler(Client, query: CallbackQuery):
                 show_alert=True,
             )
         else:
-           is_lokeshkhushi = lokeshkhushi.find_one({"chat_id": query.message.chat.id})
+           lokeshkhushi = lokeshkhushi.find_one({"chat_id": query.message.chat.id})
            if not is_candy:           
                 await query.edit_message_text(f"**ᴄʜᴀᴛ-ʙᴏᴛ ᴀʟʀᴇᴀᴅʏ ᴇɴᴀʙʟᴇᴅ.**")
             if lokeshkhushi:
@@ -400,7 +400,7 @@ async def cb_handler(Client, query: CallbackQuery):
             )
         else:
          lokeshkhushi = lokeshkhushi.find_one({"chat_id": query.message.chat.id})
-            if not lokeshkhushi:
+            if notlokeshkhushi:
                 lokeshkhushi.insert_one({"chat_id": query.message.chat.id})
                 await query.edit_message_text(f"**ᴄʜᴀᴛ-ʙᴏᴛ ᴅɪsᴀʙʟᴇᴅ ʙʏ** {query.from_user.mention}.")
             if lokeshkhushi:
