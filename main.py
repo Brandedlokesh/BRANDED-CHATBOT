@@ -1,5 +1,5 @@
-#Don't remove This Line From Here. @Dev_Arora_0981 | @DevArora0981
-#Github :- Devarora0981 | Devarora0987
+#Don't remove This Line From Here. @B_R_A_N_D_E_D_K_I_N_G | @BRANDED_KHUSHI
+#Github :- B_R_A_N_D_E_D_K_I_N_G  | BRANDED_KHUSHI
 import requests
 import random
 import os
@@ -80,16 +80,16 @@ PHOTO = [
 ]
 
 EMOJIOS = [ 
-      "💣",
-      "💥",
-      "🪄",
-      "🧨",
+      "😍",
+      "😎",
+      "😚",
+      "🤩",
       "⚡",
-      "🤡",
+      "😇",
       "👻",
-      "🎃",
-      "🎩",
-      "🕊",
+      "🥰",
+      "😻",
+      "💋",
 ]
       
 STICKER = [
@@ -106,39 +106,39 @@ STICKER = [
 START = f"""
 **๏ ʜᴇʏ, ɪ ᴀᴍ [{BOT_NAME}]({START_IMG1})**
 **➻ ᴀɴ ᴀɪ ʙᴀsᴇᴅ ᴄʜᴀᴛʙᴏᴛ**
-**──────────────**
+**──────────────────────**
 **➻ ᴜsᴀɢᴇ /chatbot [ᴏɴ/ᴏғғ]**
 <b>||๏ ʜɪᴛ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ғᴏʀ ʜᴇʟᴘ.||</b>
 """
 DEV_OP = [
     [
         InlineKeyboardButton(text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"t.me/{OWNER_USERNAME}"),
-        InlineKeyboardButton(text="✨ ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/{SUPPORT_GRP}"),
+        InlineKeyboardButton(text="🦋 ꜱᴜᴘᴘᴏʀᴛ 🦋 ", url=f"https://t.me/{SUPPORT_GRP}"),
     ],
     [
         InlineKeyboardButton(
-            text="🧸 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 🧸",
+            text="🙈 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 🙈",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="🚀 ʜᴇʟᴘ & ᴄᴍᴅs 🚀", callback_data="HELP"),
+        InlineKeyboardButton(text="🦁 ʜᴇʟᴘ & ᴄᴍᴅs 🦁", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="❄️ sᴏᴜʀᴄᴇ ❄️", callback_data="SOURCE"),
-        InlineKeyboardButton(text="☁️ ᴀʙᴏᴜᴛ ☁️", callback_data="ABOUT"),
+        InlineKeyboardButton(text="🐭 sᴏᴜʀᴄᴇ 🐭", callback_data="SOURCE"),
+        InlineKeyboardButton(text="🐶 ᴀʙᴏᴜᴛ 🐶", callback_data="ABOUT"),
     ],
 ]
 PNG_BTN = [
     [
          InlineKeyboardButton(
-             text="🧸 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 🧸",
+             text="🙈 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 🙈",
              url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
          ),
      ],
      [
          InlineKeyboardButton(
-             text="✨ sᴜᴘᴘᴏʀᴛ ✨", 
+             text=" 🦁 sᴜᴘᴘᴏʀᴛ  🦁", 
              url=f"https://t.me/{SUPPORT_GRP}",
          ),
      ],
@@ -152,23 +152,23 @@ HELP_READ = f"""
 """
 BACK = [
      [
-           InlineKeyboardButton(text="✨ ʙᴀᴄᴋ ✨", callback_data="BACK"),
+           InlineKeyboardButton(text=" 🦁 ʙᴀᴄᴋ  🦁", callback_data="BACK"),
      ],
 ]
 HELP_BTN = [
      [
-          InlineKeyboardButton(text="🐳 ᴄʜᴀᴛʙᴏᴛ 🐳", callback_data="CHATBOT_CMD"),
-          InlineKeyboardButton(text="🎄 ᴛᴏᴏʟs 🎄", callback_data="TOOLS_DATA"),
+          InlineKeyboardButton(text="💫 ᴄʜᴀᴛʙᴏᴛ 💫", callback_data="CHATBOT_CMD"),
+          InlineKeyboardButton(text="✨ ᴛᴏᴏʟs ✨", callback_data="TOOLS_DATA"),
      ],
      [
-          InlineKeyboardButton(text="✨ ʙᴀᴄᴋ ✨", callback_data="BACK"),
-          InlineKeyboardButton(text="❄️ ᴄʟᴏsᴇ ❄️", callback_data="CLOSE"),
+          InlineKeyboardButton(text="🌈 ʙᴀᴄᴋ 🌈", callback_data="BACK"),
+          InlineKeyboardButton(text="🔥 ᴄʟᴏsᴇ 🔥", callback_data="CLOSE"),
      ],
 ]
 
 CLOSE_BTN = [
       [
-           InlineKeyboardButton(text="❄️ ᴄʟᴏsᴇ ❄️", callback_data="CLOSE"),
+           InlineKeyboardButton(text="🔥 ᴄʟᴏsᴇ 🔥", callback_data="CLOSE"),
       ],
 ]
 
@@ -182,12 +182,12 @@ CHATBOT_ON = [
 PNG_BTN = [
     [
          InlineKeyboardButton(
-             text="🧸 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 🧸",
+             text="🙈 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 🙈",
              url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
          ),
      ],
      [
-         InlineKeyboardButton(text="✨ ᴄʟᴏsᴇ ✨", 
+         InlineKeyboardButton(text="🔥ᴄʟᴏsᴇ 🔥", 
                               callback_data="CLOSE",
          ),
      ],
@@ -196,9 +196,9 @@ PNG_BTN = [
 TOOLS_DATA_READ = f"""
 <u>**ᴛᴏᴏʟs ғᴏʀ {BOT_NAME} ᴀʀᴇ:**</u>
 **➻ ᴜsᴇ `/repo` ғᴏʀ ɢᴇᴛᴛɪɴɢ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ!**
-**──────────────**
+**───────────────────────────────────**
 **➻ ᴜsᴇ `/ping` ғᴏʀ ᴄʜᴇᴄᴋɪɴɢ ᴛʜᴇ ᴘɪɴɢ ᴏғ {BOT_NAME}**
-**──────────────**
+**───────────────────────────────────**
 <b>||©️ @{OWNER_USERNAME}||</b>
 """
 
@@ -251,36 +251,36 @@ CHATBOT_READ = f"""
 """
 CHATBOT_BACK = [
         [     
-              InlineKeyboardButton(text="✨ ʙᴀᴄᴋ ✨", callback_data="CHATBOT_BACK"),
-              InlineKeyboardButton(text="❄️ ᴄʟᴏsᴇ ❄️", callback_data="CLOSE"),
+              InlineKeyboardButton(text="🐥 ʙᴀᴄᴋ 🐥", callback_data="CHATBOT_BACK"),
+              InlineKeyboardButton(text="🐝 ᴄʟᴏsᴇ🐝", callback_data="CLOSE"),
         ],
 ]
 HELP_START = [
      [
-            InlineKeyboardButton(text="🚀 ʜᴇʟᴘ 🚀", callback_data="HELP"),
-            InlineKeyboardButton(text="🐳 ᴄʟᴏsᴇ 🐳", callback_data="CLOSE"),
+            InlineKeyboardButton(text="🦁 ʜᴇʟᴘ 🦁", callback_data="HELP"),
+            InlineKeyboardButton(text="💥ᴄʟᴏsᴇ 💥", callback_data="CLOSE"),
      ],
 ]
 
 HELP_BUTN = [
      [
-           InlineKeyboardButton(text="🚀 ʜᴇʟᴘ 🚀", url=f"https://t.me/{BOT_USERNAME}?start=help"),
-           InlineKeyboardButton(text="🐳 ᴄʟᴏsᴇ 🐳", callback_data="CLOSE"),
+           InlineKeyboardButton(text="🦁 ʜᴇʟᴘ 🦁", url=f"https://t.me/{BOT_USERNAME}?start=help"),
+           InlineKeyboardButton(text="💥 ᴄʟᴏsᴇ 💥", callback_data="CLOSE"),
      ],
 ]
 
 ABOUT_BTN = [
       [
-           InlineKeyboardButton(text="🎄 sᴜᴘᴘᴏʀᴛ 🎄", url=f"https://t.me/{SUPPORT_GRP}"),  
-           InlineKeyboardButton(text="🚀 ʜᴇʟᴘ 🚀", callback_data="HELP"),
+           InlineKeyboardButton(text="🦋 sᴜᴘᴘᴏʀᴛ 🦋", url=f"https://t.me/{SUPPORT_GRP}"),  
+           InlineKeyboardButton(text="🦁 ʜᴇʟᴘ 🦁", callback_data="HELP"),
       ],
       [    
-           InlineKeyboardButton(text="🍾 ᴏᴡɴᴇʀ 🍾", url=f"https://t.me/{OWNER_USERNAME}"), 
-           InlineKeyboardButton(text="❄️ sᴏᴜʀᴄᴇ ❄️", callback_data="SOURCE"),
+           InlineKeyboardButton(text="🕊 ᴏᴡɴᴇʀ 🕊", url=f"https://t.me/{OWNER_USERNAME}"), 
+           InlineKeyboardButton(text="🐣 sᴏᴜʀᴄᴇ 🐣", callback_data="SOURCE"),
       ],
       [ 
-           InlineKeyboardButton(text="🐳 ᴜᴘᴅᴀᴛᴇs 🐳", url=f"https://t.me/{UPDATE_CHNL}"),  
-           InlineKeyboardButton(text="✨ ʙᴀᴄᴋ ✨", callback_data="BACK"),
+           InlineKeyboardButton(text="🦚 ᴜᴘᴅᴀᴛᴇs 🦚", url=f"https://t.me/{UPDATE_CHNL}"),  
+           InlineKeyboardButton(text="🦜 ʙᴀᴄᴋ 🦜", callback_data="BACK"),
       ],
 ]
 SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{BOT_NAME}](https://t.me/{BOT_USERNAME}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://github.com/its-star-boi/Candy_chatbot)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||©️ @{OWNER_USERNAME}||</b>"
@@ -299,12 +299,12 @@ async def restart(client, m: Message):
         accha = await m.reply_text(
             text = random.choice(EMOJIOS),
         )
-        await asyncio.sleep(1.3)
-        await accha.edit("__ᴅιиg ᴅσиg ꨄ︎ ѕтαятιиg..__")
+        await asyncio.sleep(1.4)
+        await accha.edit("🥵𝙽𝙾𝚆 𝙲𝙾𝙼𝙴 𝙷𝙴𝚁𝙴 👉@BRANDED_WORLD  𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙶𝙸𝚁𝙻𝙵𝚁𝙸𝙴𝙽𝙳🌹💋")
         await asyncio.sleep(0.2)
-        await accha.edit("__ᴅιиg ᴅσиg ꨄ sтαятιиg.....__")
+        await accha.edit("🥵𝙽𝙾𝚆 𝙲𝙾𝙼𝙴 𝙷𝙴𝚁𝙴 👉@BRANDED_WORLD  𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙶𝙸𝚁𝙻𝙵𝚁𝙸𝙴𝙽𝙳🌹💋")
         await asyncio.sleep(0.2)
-        await accha.edit("__ᴅιиg ᴅσиg ꨄ︎ sтαятιиg..__")
+        await accha.edit("🥵𝙽𝙾𝚆 𝙲𝙾𝙼𝙴 𝙷𝙴𝚁𝙴 👉@BRANDED_WORLD  𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙶𝙸𝚁𝙻𝙵𝚁𝙸𝙴𝙽𝙳🌹💋")
         await asyncio.sleep(0.2)
         await accha.delete()
         umm = await m.reply_sticker(sticker=random.choice(STICKER))
@@ -326,8 +326,8 @@ async def restart(client, m: Message):
 
 @bot.on_callback_query()
 async def cb_handler(Client, query: CallbackQuery):
-    candydb = MongoClient(MONGO_URL)
-    candy = candydb["CandyDb"]["Candy"]
+    lokeshkhushi = MongoClient(MONGO_URL)
+    lokeshkhushi = lokeshkhushi["lokeshkhushiDb"]["lokeshkhushi"]
     if query.data == "HELP":
         await query.message.edit_text(
                       text = HELP_READ,
@@ -386,11 +386,11 @@ async def cb_handler(Client, query: CallbackQuery):
                 show_alert=True,
             )
         else:
-            is_candy = candy.find_one({"chat_id": query.message.chat.id})
+           lokeshkhushi = lokeshkhushi.find_one({"chat_id": query.message.chat.id})
             if not is_candy:           
                 await query.edit_message_text(f"**ᴄʜᴀᴛ-ʙᴏᴛ ᴀʟʀᴇᴀᴅʏ ᴇɴᴀʙʟᴇᴅ.**")
-            if is_candy:
-                candy.delete_one({"chat_id": query.message.chat.id})
+            if lokeshkhushi:
+               lokeshkhushi.delete_one({"chat_id": query.message.chat.id})
                 await query.edit_message_text(f"**ᴄʜᴀᴛ-ʙᴏᴛ ᴇɴᴀʙʟᴇᴅ ʙʏ** {query.from_user.mention}.")
     elif query.data == "rmchat":
         if query.from_user.id not in (await is_admins(query.message.chat.id)):
@@ -399,11 +399,11 @@ async def cb_handler(Client, query: CallbackQuery):
                 show_alert=True,
             )
         else:
-            is_candy = candy.find_one({"chat_id": query.message.chat.id})
-            if not is_candy:
-                candy.insert_one({"chat_id": query.message.chat.id})
+         lokeshkhushi = lokeshkhushi.find_one({"chat_id": query.message.chat.id})
+            if notlokeshkhushi:
+                lokeshkhushi.insert_one({"chat_id": query.message.chat.id})
                 await query.edit_message_text(f"**ᴄʜᴀᴛ-ʙᴏᴛ ᴅɪsᴀʙʟᴇᴅ ʙʏ** {query.from_user.mention}.")
-            if is_candy:
+            if lokeshkhushi:
                 await query.edit_message_text("**ᴄʜᴀᴛ-ʙᴏᴛ ᴀʟʀᴇᴀᴅʏ ᴅɪsᴀʙʟᴇᴅ.**")
                             
 @bot.on_message(filters.command("repo"))
@@ -436,7 +436,7 @@ async def restart(client, m: Message):
 async def get_st(_, msg: Message):
     users = len(await get_served_users())
     chats = len(await get_served_chats())
-    await msg.reply_photo(photo="https://te.legra.ph/file/2d5b054acddf865d4d83e.png",
+    await msg.reply_photo(photo="https://te.legra.ph/file/6a4ac076ff159bdcf9656.jpg",
                           caption=f"""ᴛᴏᴛᴀʟ sᴛᴀᴛs ᴏғ {BOT_NAME}
           ➻ **ᴄʜᴀᴛs :** {chats}
           ➻ **ᴜsᴇʀs :** {users}"""
@@ -697,5 +697,5 @@ async def candyprivatesticker(client: Client, message: Message):
            if not Yo == "text":
                await message.reply_sticker(f"{hey}")
 
-print(f"{BOT_NAME} ɪs ᴀʟɪᴠᴇ! ɴᴏᴡ ғᴜᴄᴋ ᴏғғ! ᴀɴᴅ ɢᴏ ᴛᴏ @Best_FriendsFor_Ever ʙɪᴛᴄʜ!!")      
+print(f"{BOT_NAME} ɪs ᴀʟɪᴠᴇ! ɴᴏᴡ ғᴜᴄᴋ ᴏғғ! ᴀɴᴅ ɢᴏ ᴛᴏ @BRANDED_WORLD!!")      
 bot.run()
