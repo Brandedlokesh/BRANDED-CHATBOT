@@ -389,7 +389,7 @@ async def cb_handler(Client, query: CallbackQuery):
            lokeshkhushi = lokeshkhushi.find_one({"chat_id": query.message.chat.id})
            if notlokeshkhushi:           
                 await query.edit_message_text(f"**ᴄʜᴀᴛ-ʙᴏᴛ ᴀʟʀᴇᴀᴅʏ ᴇɴᴀʙʟᴇᴅ.**")
-            if notlokeshkhushi:
+           if notlokeshkhushi:
                lokeshkhushi.delete_one({"chat_id": query.message.chat.id})
                 await query.edit_message_text(f"**ᴄʜᴀᴛ-ʙᴏᴛ ᴇɴᴀʙʟᴇᴅ ʙʏ** {query.from_user.mention}.")
     elif query.data == "rmchat":
