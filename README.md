@@ -1,6 +1,6 @@
 <h1 align="center"><b>🦋 LOKESH KHUSHI CHATBOT 🦋</b></h1>
 <img src="https://te.legra.ph/file/6a4ac076ff159bdcf9656.jpg">
-
+ ⭐️ Thanks to everyone for using LOKESH KHUSHI CHAT BOT,  🤭 That is the greatest pleasure we have !
 # ᴀʙᴏᴜᴛ
 <i>ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀᴛʙᴏᴛ.</i>
 
