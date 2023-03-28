@@ -1,5 +1,5 @@
-<h1 align="center"><b>🦋LOKESHKHUSHI🦋</b></h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center"><b>🦋 LOKESH KHUSHI CHATBOT 🦋</b></h1>
+<img src="https://te.legra.ph/file/6a4ac076ff159bdcf9656.jpg">
 
 # ᴀʙᴏᴜᴛ
 <i>ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀᴛʙᴏᴛ.</i>
