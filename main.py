@@ -400,7 +400,7 @@ async def cb_handler(Client, query: CallbackQuery):
             )
         else:
          lokeshkhushi = lokeshkhushi.find_one({"chat_id": query.message.chat.id})
-            if lokeshkhushi:
+         if lokeshkhushi:
                 lokeshkhushi.insert_one({"chat_id": query.message.chat.id})
                 await query.edit_message_text(f"**ᴄʜᴀᴛ-ʙᴏᴛ ᴅɪsᴀʙʟᴇᴅ ʙʏ** {query.from_user.mention}.")
             if lokeshkhushi:
