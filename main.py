@@ -387,7 +387,7 @@ async def cb_handler(Client, query: CallbackQuery):
             )
         else:
            is_lokeshkhushi = lokeshkhushi.find_one({"chat_id": query.message.chat.id})
-            if not is_lokeshkhushi:           
+           if not is_candy:           
                 await query.edit_message_text(f"**ᴄʜᴀᴛ-ʙᴏᴛ ᴀʟʀᴇᴀᴅʏ ᴇɴᴀʙʟᴇᴅ.**")
             if lokeshkhushi:
                lokeshkhushi.delete_one({"chat_id": query.message.chat.id})
