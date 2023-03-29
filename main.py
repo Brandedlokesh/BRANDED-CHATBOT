@@ -299,7 +299,7 @@ async def restart(client, m: Message):
         accha = await m.reply_text(
             text = random.choice(EMOJIOS),
         )
-        await asyncio.sleep(1.4)
+        await asyncio.sleep(1.3)
         await accha.edit("🥵𝙽𝙾𝚆 𝙲𝙾𝙼𝙴 𝙷𝙴𝚁𝙴 👉@BRANDED_WORLD  𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙶𝙸𝚁𝙻𝙵𝚁𝙸𝙴𝙽𝙳🌹💋")
         await asyncio.sleep(0.2)
         await accha.edit("🥵𝙽𝙾𝚆 𝙲𝙾𝙼𝙴 𝙷𝙴𝚁𝙴 👉@BRANDED_WORLD  𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙶𝙸𝚁𝙻𝙵𝚁𝙸𝙴𝙽𝙳🌹💋")
