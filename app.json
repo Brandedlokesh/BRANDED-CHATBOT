@@ -13,31 +13,31 @@
     ],
     "env": {
         "BOT_TOKEN": {
-            "description": "6137836765:AAGqLgNyR7NE2K2IWAUX6itcEb9zq9q6g_0",
+            "description": "",
             "required": true
         },        
         "MONGO_URL": {
-            "description": "mongodb+srv://hnyx:wywyw2@cluster0.9dxlslv.mongodb.net/?retryWrites=true&w=majority",
+            "description": "",
             "required": true
         },
         "BOT_USERNAME": {
-            "description": "Khushi_chat_bot",
+            "description": "",
             "required": true
         },
         "OWNER_USERNAME": {
-            "description": "BRANDRD_21",
+            "description": "",
             "required": true
         },
         "BOT_NAME": {
-            "description": "LOKESH X KHUSHI ",
+            "description": "",
             "required": true
         },
         "UPDATE_CHNL": {
-            "description": "BRANDED_KHUSHI",
+            "description": "",
             "required": true
         },
         "SUPPORT_GRP": {
-            "description": "BRANDED_LINK",
+            "description": "",
             "required": true
         },
         "STKR": {
