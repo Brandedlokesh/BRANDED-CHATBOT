@@ -16,31 +16,15 @@ from motor.motor_asyncio import AsyncIOMotorClient as MongoCli
 
 
 API_ID = os.environ.get("API_ID", None) 
-
 API_HASH = os.environ.get("API_HASH", None) 
-
 BOT_TOKEN = os.environ.get("BOT_TOKEN", None) 
-
 MONGO_URL = os.environ.get("MONGO_URL", None)
-
 BOT_USERNAME = os.environ.get("BOT_USERNAME") 
-
 UPDATE_CHNL = os.environ.get("UPDATE_CHNL")
-
 OWNER_ID = os.environ.get("OWNER_ID")
-
 OWNER_USERNAME = os.environ.get("OWNER_USERNAME")
-
 SUPPORT_GRP = os.environ.get("SUPPORT_GRP")
-
 BOT_NAME = os.environ.get("BOT_NAME")
-
-
-
-
-
-
-
 START_IMG1 = os.environ.get("START_IMG1")
 START_IMG2 = os.environ.get("START_IMG2")
 START_IMG3 = os.environ.get("START_IMG3")
