@@ -17,7 +17,7 @@ from motor.motor_asyncio import AsyncIOMotorClient as MongoCli
 
 API_ID = os.environ.get("24315255") 
 API_HASH = os.environ.get("129b292dc07c43347e3255c09e0a3e49") 
-BOT_TOKEN = os.environ.get("6137836765:AAGqLgNyR7NE2K2IWAUX6itcEb9zq9q6g_0") 
+BOT_TOKEN = os.environ.get("") 
 MONGO_URL = os.environ.get("mongodb+srv://hnyx:wywyw2@cluster0.9dxlslv.mongodb.net/?retryWrites=true&w=majority")
 BOT_USERNAME = os.environ.get("Khushi_chat_bot") 
 UPDATE_CHNL = os.environ.get("BRANDED_KHUSHI")
