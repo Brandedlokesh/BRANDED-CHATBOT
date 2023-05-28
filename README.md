@@ -8,9 +8,9 @@
 ᴠɪᴄᴋᴍᴀᴄʜɪɴᴇʙᴏᴛ ɪs ɴᴏᴛ ᴍɪɴᴇ.
 
 # ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ 🚀
-<i>**[Watch Deploying Tutorial...](https://youtube.com/watch?v=b8iZtBqSMMs&feature)**</i>
+<i>**[Watch Deploying Tutorial...](https://youtu.be/b8iZtBqSMMs)**</i>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/WCGKING/lokeshkhushi_chatbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/WCGKING/BRANDED-CHATBOTt"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ## <i>ᴄʜᴇᴄᴋ ᴛʜᴇ ᴅᴇᴍᴏ ʀᴏʙᴏᴛ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ!</i>
@@ -18,7 +18,7 @@
 <p align="center"><a href="https://t.me/Khushi_chat_bot"> <img src="https://img.shields.io/badge/CHECK-Demo%20Robot-black?style=for-the-badge&logo=Telegram" width="220" height="39"/></a></p>
 
 ## ʀᴇᴘᴏ sᴛᴀᴛs
-<a href="https://github.com/WCGKING/lokeshkhushi_chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=its-star-boi&repo=Candy_chatbot&theme=chartreuse-dark"></a>
+<a href="https://github.com/WCGKING/BRANDED-CHATBOT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=its-star-boi&repo=Candy_chatbot&theme=chartreuse-dark"></a>
 
 ### sᴜᴘᴘᴏʀᴛ
 <p align="center"><a href="https://t.me/BRANDED_WORLD"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
